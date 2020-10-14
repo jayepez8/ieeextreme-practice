@@ -32,7 +32,7 @@ int main(){
         int n,m;
         bool res = false;
         cin>>n>>m;
-        init(n,list);	
+        init(n,list);
 		for(int i = 0;i<m;i++){
             int x,y;
             cin>>x>>y;
